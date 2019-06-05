@@ -1,0 +1,6 @@
+name: MrAPI
+version: ${project.version}
+main: dev.mrshawn.mrapi.MrAPI
+prefix: MrAPI
+authors: [MrShawn]
+website: https://mrshawn.dev
